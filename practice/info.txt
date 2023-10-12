@@ -1,0 +1,10 @@
+01|real analysis|88
+02|linear algebra|92
+03|abstract algebra|93
+04|probability theory|78
+05|graph theory|54
+06|discrete math|44
+07|topology|29
+08|convex optimization|63
+09|differential equations|88
+10|functional analysis|29
